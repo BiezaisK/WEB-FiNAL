@@ -27,8 +27,8 @@ if (!empty($_GET['msg'])) {
         <table class="table">
             <thead>
                 <tr>
-                <th scope="col">ID</th>
-                <th scope="col">Vards</th>
+                <th scope="col">Nr</th>
+                <th scope="col">Vards Uzvards</th>
                 <th scope="col">Dzimums</th>
                 <th scope="col">Epasts</th>
                 <th scope="col">Kurss</th>

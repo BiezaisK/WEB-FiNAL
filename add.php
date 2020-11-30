@@ -76,7 +76,7 @@ if (isset($_GET['id']) && $_GET['id'] != '') {
                 </div>
             </div>
             <div class="form-group row">
-            <label for="gender" class="col-sm-3 col-form-label">Gender</label>
+            <label for="gender" class="col-sm-3 col-form-label">Dzimums</label>
             <div class="col-sm-7">
                 <select class="form-control" name="gender" id="gender">
                 <option value="">Dzimums</option>
